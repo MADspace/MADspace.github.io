@@ -1,0 +1,17 @@
+---
+layout: post
+title: Dutch Design Week - meetups
+date: 2019-10-30 19:00 - 23:00
+---
+<BR/><BR/>
+
+<h1>Dutch Design Week - meetups</h1>
+
+In de week van 21 oktober tm 25 oktober vieren we in Eindhoven de Dutch Design Week. In deze week zijn we op 2 avonden geopend.
+
+## 23 oktober - Privacy Cafe - Pub Quiz
+- Deelnemers worden tijdens bordspellen op hun Privacy kennis getest.
+- Inschrijven kan via onze meetup https://www.meetup.com/madspace/ of via info@madspace.nl.
+
+## 24 oktober - Tech Talks - Mobile Development
+- Mobile tech engineers delen kennis over Flutter, recente trends en anti-patterns. Deze avond is volgeboekt, er is een wachtlijst beschikbaar via onze meetup.
