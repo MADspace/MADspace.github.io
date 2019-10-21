@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Borrel - thema 'MADspace in 2020'
+title: Borrel - thema 'MADspace in 2020' (2019-10-30)
 date: 2019-10-30 19:00 - 23:00
 ---
 <BR/><BR/>
 
-<h1>Borrel - thema 'MADspace 2020'</h1>
+<h1>Borrel - thema 'MADspace 2020' </h1>
 
 Op deze woensdagavond houden we een borrel voor onze vaste bezoekers en hun introducees. 
 

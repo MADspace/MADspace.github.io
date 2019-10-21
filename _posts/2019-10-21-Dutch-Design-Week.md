@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Dutch Design Week - meetups
-date: 2019-10-30 19:00 - 23:00
+title: Dutch Design Week - meetups (10-23 en 10-24)
+date: 2019-10-21 19:00 - 23:00
 ---
 <BR/><BR/>
 
