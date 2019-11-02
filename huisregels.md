@@ -21,6 +21,7 @@ permalink: /huisregels/
 12. het is enkel en alleen toegestaan aan het bestuur de beheerder/huisbaas van het pand te benaderen. (ter verduidelijking: het is niet toegestaan het bestuur van Stichting MADspace voorbij te lopen en hierdoor een schakel over te slaan.) Zie ook punt 4.
 13. iedereen ruimt alles op wat hij/zij gebruikt heeft en laat alles schoon achter.
 14. als een groep zoals: Privacy Werkgroep, IoT groep, Embedded Systems of etc. gebruik wilt maken van onze ruimte, iets wilt organiseren of in wilt plannen kan dat enkel en alleen doormiddel van een email te sturen aan [bestuur@madspace.nl](mailto:bestuur@madspace.nl). Het bestuur gaat hierover dan in beraad.
+15. Declaraties voor MADspace moeten binnen 1 maand na betaling ingediend worden bij de Penningmeester. Na 1 maand kan er niet meer gedeclareerd worden. En wordt er vervolgens vanuitgegaan dat de betaling een donatie aan MADspace was.
 
 #### De laatste actuele versie staat op [https://www.madspace.nl/huisregels/](https://www.madspace.nl/huisregels/)
 
