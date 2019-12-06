@@ -5,7 +5,7 @@ permalink: deelnemer_worden.html
 ---
 
 ## Introductie
-MADspace is een stichting, die gevoerd wordt door 3 of meer bestuursleden.
+MADspace is een stichting, die gevoerd wordt door bestuursleden.
 Om zaken draaiende te houden, en omdat de bestuursleden ook hun dagelijkse werkzaamheden hebben is het vaak nodig om andere mensen dan het bestuur (de deelnemers) te activeren/vragen om bepaalde taken over te nemen.
 
 ## Kosten
@@ -23,15 +23,15 @@ Het draaiend houden van een Hackerspace kost geld. Op dit moment krijgen we geen
 * reserves om de continuiteit te kunnen waarborgen
 
 ## Inkomsten
-Op dit moment bestaan de inkomsten volledig uit de deelnemersbijdragen ('donaties'). Om te zorgen dat iedereen zijn steentje bijdraagt in het financieel ondersteunen van de stichting, houden we bij wie wat doneert.
+Op dit moment bestaan de inkomsten volledig uit donaties en deelnemersbijdragen. Om te zorgen dat iedereen zijn steentje bijdraagt in het financieel ondersteunen van de stichting, houden we bij wie deelnemer is.
 In lijn met de andere hackerspaces in Nederland vragen we een  bijdrage van €25 per maand.
 
 ## Hiervoor krijg je terug:
 * een gebruikersaccount (onder je eigen voornaam, indien nog beschikbaar)
-* een deursleutel die 24/7 toegang biedt tot de hackerspace (op termijn, indien de verhuurder het toestaat)
+* een deursleutel die 24/7 toegang biedt tot de hackerspace (indien de verhuurder het toestaat)
 * een Spacenet account, waarmee je bij elke verbonden hackerspace direct op het internet kan (zodra geimplementeerd)
 * het gebruik van internet & de aanwezige faciliteiten (zoverre deze voor 'openbaar gebruik' aangemerkt zijn (stickersysteem))
-* een plek om persoonlijke bezittingen te bewaren in een opbergdoos. (Het aankopen van SAMLA opbergdozen staat in de planning)
+* een plek om persoonlijke bezittingen te bewaren in een opbergdoos.
 
 ## Deelnemer worden
 Deelnemer wordt je door het invullen van het inschrijfformulier (toekomst: online formulier invullen) & indienen van de incassomachtiging.

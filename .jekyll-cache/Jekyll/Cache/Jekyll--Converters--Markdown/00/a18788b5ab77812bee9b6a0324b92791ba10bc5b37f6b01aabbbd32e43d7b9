@@ -1,0 +1,116 @@
+I"o	<h1 id="space-status-project">Space Status project</h1>
+<h3 id="as-widly-as-possible-show-if-madspace-is-open-or-closed">As widly as possible show if MADspace is open or closed.</h3>
+
+<h4 id="fase-1-basics">Fase 1: Basic’s</h4>
+
+<p>Open / closed detection:</p>
+<ul>
+  <li>Switch</li>
+  <li>Bluetooth handle</li>
+  <li>Wifi SSID</li>
+</ul>
+
+<p>Local representation Representation on:</p>
+
+<ul>
+  <li>madspace.nl</li>
+  <li>hackerspaces.nl (HackerSpace Status API)</li>
+  <li>IRC</li>
+</ul>
+
+<p><strong>Fase 1a</strong></p>
+
+<p>Open / closed detection:</p>
+<ul>
+  <li>Switch</li>
+</ul>
+
+<p>Representation on:</p>
+<ul>
+  <li>Local sign ( LED )</li>
+  <li>IRC</li>
+</ul>
+
+<p><strong>Fase 1b adding:</strong></p>
+
+<p>Representation on:</p>
+
+<ul>
+  <li>madspace.nl</li>
+  <li>hackerspaces.nl (HackerSpace Status API)</li>
+</ul>
+
+<p><strong>Fase 1c adding</strong></p>
+
+<p>Open / closed detection:</p>
+<ul>
+  <li>Bluetooth handle</li>
+  <li>Wifi SSID</li>
+</ul>
+
+<p><strong>Fase 1d adding</strong></p>
+
+<p>Security where possible</p>
+
+<ul>
+  <li>SSL</li>
+  <li>SSH</li>
+</ul>
+
+<h4 id="fase-2">Fase 2</h4>
+
+<p>Burgelar detection (when we have our own room(s)). Number of participants logging Access control, door control</p>
+
+<ul>
+  <li>RFID</li>
+  <li>SMS</li>
+  <li>Bluetooth SSID</li>
+</ul>
+
+<p><em>And other ideas we can think of.</em></p>
+
+<p><strong>Reporting</strong></p>
+<ul>
+  <li>Wiki</li>
+  <li>Tools</li>
+</ul>
+
+<p><strong>Development system</strong></p>
+
+<p>Raspberry pi with the PiBang distribution</p>
+
+<ul>
+  <li>Powersupply for the Raspberry pi</li>
+  <li>XAMPP server on the Raspberry pi</li>
+  <li>Arduino  IDE version 1.0.5</li>
+  <li>Arduino UNO Rev. 3 with Ethernet shield</li>
+  <li>Red 5mm LED</li>
+  <li>Resistor of  330 Ohm</li>
+  <li>Switch and wires</li>
+  <li>Powered  USB hub</li>
+  <li>HDMI capable monitor &amp; HDMI cable</li>
+  <li>USB keyboard and mouse</li>
+  <li>UTP cable  for the internet connection of the Raspberry pi</li>
+  <li>UTP cable  for the internet connection of the Arduino  Ethernet shield</li>
+</ul>
+
+<h4 id="fase-1-implementation">Fase 1 implementation</h4>
+
+<p><strong>Step 1 Proof of concept</strong></p>
+
+<ul>
+  <li>
+    <p>[ Drawing t.b.d. ]</p>
+  </li>
+  <li>
+    <p>[ Code ]</p>
+  </li>
+  <li>
+    <p>Todo</p>
+  </li>
+</ul>
+
+<p><strong>Rewrite the perl code to php</strong></p>
+
+<p><a href="\assets\attachments\project_space_status.tgz">space_status.tgz</a></p>
+:ET

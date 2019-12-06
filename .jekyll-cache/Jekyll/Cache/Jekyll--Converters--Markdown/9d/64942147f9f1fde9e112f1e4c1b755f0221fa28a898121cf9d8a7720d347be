@@ -1,0 +1,41 @@
+I"<p><br />
+<br /></p>
+<h1>Workshop - Flutter and Firebase (2019-09-18)</h1>
+
+<p>Tonight we have a workshop on 2 very powerful technologies: Flutter and Firebase.</p>
+
+<p>Register via mail towards <a href="info@madspace.nl">info@madspace.nl</a> or via our <a href="https://www.meetup.com/MADspace/">meetup</a>.</p>
+
+<p><em>Flutter</em> is an app SDK for building high-performance, high-fidelity apps for iOS, Android, and web (early access) from a single codebase.
+<em>Firebase</em> is a mobile and web application development platform, with over 18 cloud products, used by over 1.5 million apps (end 2018).</p>
+
+<p>We at MADspace had a great time on last Flutter evening <a href="https://www.madspace.nl/2019/08/21/Aankondiging_FlutterIntroNight.html">08/21</a>. 
+ Wednesday 11 september is the sequence: in a 2 hour during workshop we will develop flutter applications with a Firebase backend.</p>
+
+<p><em>Preparations</em></p>
+
+<ul>
+  <li>bring your own laptop</li>
+  <li>install Flutter beforehand and try some ‘hello world’-examples</li>
+</ul>
+
+<p><em>Program</em></p>
+
+<ul>
+  <li>19:00-19:30  doors open and drinks</li>
+  <li>19:30-21:30  start of workshop: enjoy our flutter and firebase apps!</li>
+  <li>21:30-23:00  drinks and networking.</li>
+</ul>
+
+<p><em>References</em></p>
+
+<ul>
+  <li><a href="https://flutter.dev/docs/get-started/install">https://flutter.dev/docs/get-started/install</a></li>
+  <li><a href="https://flutter.dev/docs/resources/technical-overview">https://flutter.dev/docs/resources/technical-overview</a></li>
+  <li><a href="https://codelabs.developers.google.com/codelabs/flutter-firebase/index.html">https://codelabs.developers.google.com/codelabs/flutter-firebase/index.html</a></li>
+  <li><a href="https://firebase.google.com/docs/flutter/setup">https://firebase.google.com/docs/flutter/setup</a></li>
+</ul>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DqJ_KjFzL9I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+
+:ET

@@ -1,0 +1,28 @@
+I"I<p>Hello!</p>
+
+<p>I am Huub de Beer (<code class="highlighter-rouge">_ht</code> in the <code class="highlighter-rouge">#madspace</code> channel on the Freenode IRC
+network) and at MADspace I often work on my own <a href="https://www.gnu.org/philosophy/free-sw.en.html">free
+software</a> projects.</p>
+
+<p>I mainly focus on two types of projects:</p>
+
+<ol>
+  <li><a href="https://pandoc.org">Pandoc</a> and/or document conversion related projects. I
+created a Ruby wrapper around the multi-document converter
+<a href="https://pandoc.org">Pandoc</a> called
+<a href="http://heerdebeer.org/Software/markdown/paru/">paru</a>. On top of paru I
+wrote a tool to automate the use of pandoc:
+<a href="http://heerdebeer.org/Software/markdown/pandocomatic/">pandocomatic</a>. I
+use pandocomatic to convert all my documents, but also to generate my
+static <a href="https://heerdebeer.org">web site</a>.</li>
+  <li>All kinds of JavaScript projects. For example, in 2017, I wrote a <a href="http://heerdebeer.org/Software/virtual_botanical_laboratory/">virtual
+botanical
+laboratory</a>.
+A year prior, I created a tool to convert ASCII symbols to their unicode
+counterparts,
+<a href="http://heerdebeer.org/Software/symbol2unicode/">symbol2unicode</a></li>
+</ol>
+
+<p>For more information about my work, have a look at my
+<a href="https://heerdebeer.org">website</a></p>
+:ET
