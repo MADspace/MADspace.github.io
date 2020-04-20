@@ -1,14 +1,14 @@
 ---
 layout: default
-title: Blog
-permalink: /posts/
+title: Events
+permalink: /events/
 ---
 
 <h1>Events</h1>
 
 <div class="posts">
   <ul>
-    {% for post in site.posts %}
+    {% for post in site.events %}
       <li>
         <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
       </li>

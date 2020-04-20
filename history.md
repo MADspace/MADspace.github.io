@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Geschiedenis van MADspace
-permalink: history.html
+permalink: /geschiedenis/
 ---
 <h1>Geschiedenis van MADspace</h1>
 De begingedachten voor een hackerspace in Eindhoven werden gevormd in de zomer

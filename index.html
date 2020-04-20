@@ -4,37 +4,22 @@ title: Index
 permalink: index.html
 ---
 
-<h1>MADspace: de Eindhovense Hackerspace</h1>
+<h1>{{ site.title }}</h1>
 
-<!--
-<div class="news">
-<h2>Laatste nieuws</h2>
-<h3><a href="/2018/05/31/a-look-into-the-future-at-the-last-Home-Automation-workshop.html">A look into the future at the last home automation workshop!</a></h3>
-<h3><a href="/2018/05/24/linking-it-all-together-and-bringing-it-alive-at-the-fourth-Home-Automatoion-workshop.html">Linking it all together and bringing it alive at the fourth Home Automation workshop</a></h3>
-<h3><a href="/2018/05/17/all-about-protocols-and-possibilities-at-the-third-home-automation-workshop.html">All about protocols and possibilities at the third Home Automation workshop!</a></h3>  
-</div>
--->
 <div class="center">
-<a class='mainImageLink' href="https://www.meetup.com/MADspace/" title="Onze locatie is in het culturele van Abbe-huis (tegenover het van Abbe-museum) "><img
-  class="img-responsive" style="width:50%;display: inline;"
-  src="/assets/img/abbehuis.jpg" /></a>
+    <a class='mainImageLink' href="{{ site.url }}" title="MADspace.nl">
+        <img class="img-responsive" style="width:50%;display: inline;" src="/assets/img/abbehuis.jpg" />
+    </a>
 
-    <p> Onze locatie is in het culturele <a href="https://www.google.nl/maps/place/Albert+van+Abbehuis/@51.4338265,5.4798387,17z/data=!3m1!4b1!4m5!3m4!1s0x47c6d901fa9d61ad:0x6a3074b12c8d0b60!8m2!3d51.4338265!4d5.4820274">van Abbe-huis</a> </p>
-  <p>
-      Welkom op <a href="https://madspace.nl">MADspace.nl</a>! Geniet van gezelligheid en techniek uit regio Eindhoven.
-</p>
-<p>
-    <i>Je kunt onze <a href="/over">stichting</a> ondersteunen met een <a
-            href="/over#donaties">donatie</a>. We zijn dankbaar voor elke
-        bijdrage.</i>
-</p>
+    <p>Welkom op <a href="{{ site.url }}">MADspace.nl</a>! Geniet van gezelligheid en techniek uit regio Eindhoven.</p>
+    <p>
+        <i>Je kunt onze <a href="/over/">stichting</a> ondersteunen met een <a href="/over/">donatie</a>. We zijn dankbaar voor elke bijdrage.</i>
+    </p>
 </div>
 <div class="news">
-  {%- if site.posts.size > 0 -%}
     <h2 class="post-list-heading">{{ page.list_title | default: "Upcoming events:" }}</h2>
-    {%- for post in site.posts -%}
+    {%- for post in site.events reversed -%}
       <h3><a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></h3>
     {%- endfor -%}
-  {%- endif -%}
 </div>
 

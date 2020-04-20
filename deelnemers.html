@@ -1,0 +1,26 @@
+---
+layout: default
+title: Deelnemers
+permalink: /deelnemers/
+---
+
+<h1>Deelnemers</h1>
+
+<h3><a href="/deelnemer_worden/">Lees hier over "deelnemer worden"</a></h3>
+
+<h1>Vaste bezoekers</h1>
+<div class="participants">
+  <ul>
+    {% for participant in site.deelnemers %}
+      <li>
+        <a class="participant-link" href="{{ participant.url | prepend: site.baseurl }}">{{ participant.title }}</a>
+      </li>
+    {% endfor %}
+  </ul>
+  
+</div>
+<h3>GitHub publieke deelnemers</h3>
+<div class="participants">
+{% include blocks/github_users.html orgname="madspace" %}
+</div>
+

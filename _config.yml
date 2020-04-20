@@ -10,11 +10,11 @@ markdown: kramdown
 future: true
 
 collections:
-  posts:
+  events:
     output: true
-  participants:
+  deelnemers:
     output: true
-  projects:
+  projecten:
     output: true
   securityProjects:
     output: true

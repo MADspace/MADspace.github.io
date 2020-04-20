@@ -1,14 +1,11 @@
 - title: Events
-  url: /posts/
+  url: /events/
 
 - title: Deelnemers
-  url: /participants/
+  url: /deelnemers/
 
 - title: Projecten
-  url: /projects/
+  url: /projecten/
 
 - title: Over
   url: /over/
-  sub-pages:
-  - title: Hoe bijdragen?
-    url: /faq.html

@@ -1,14 +1,14 @@
 ---
 layout: default
-title: Projects
-permalink: /projects/
+title: Projecten
+permalink: /projecten/
 ---
 
 <h1>Projecten</h1>
 
 <div class="projects">
   <ul>
-    {% assign sorted = site.projects | sort: 'title' %}
+    {% assign sorted = site.projecten | sort: 'title' %}
     {% for project in sorted %}
     <li>
       <a class="project-link" href="{{ project.url | prepend: site.baseurl }}">{{ project.title }}</a>

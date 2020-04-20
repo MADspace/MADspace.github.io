@@ -26,7 +26,6 @@ permalink: /definities/
 ## Deelnemer
 * Krijgt een gebruikersaccount (onder je eigen voornaam, indien nog beschikbaar).
 * Krijgt een deursleutel die 24/7 toegang biedt tot de hackerspace (indien de verhuurder het toestaat).
-* Krijgt een Spacenet account, waarmee je bij elke verbonden hackerspace direct op het internet kan (zodra geimplementeerd).
 * Krijgt een plek om persoonlijke bezittingen te bewaren in een (Ikea SAMBLA) opbergdoos.
 * Mag gebruik maken van internet & de aanwezige faciliteiten (zoverre deze voor ‘openbaar gebruik’ aangemerkt zijn (stickersysteem)).
 

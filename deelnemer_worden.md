@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Deelnemer Worden
-permalink: deelnemer_worden.html
+title: Deelnemer worden
+permalink: /deelnemer_worden/
 ---
 
-## Introductie
+# Deelnemer worden
 MADspace is een stichting, die gevoerd wordt door bestuursleden.
 Om zaken draaiende te houden, en omdat de bestuursleden ook hun dagelijkse werkzaamheden hebben is het vaak nodig om andere mensen dan het bestuur (de deelnemers) te activeren/vragen om bepaalde taken over te nemen.
 
@@ -24,12 +24,11 @@ Het draaiend houden van een Hackerspace kost geld. Op dit moment krijgen we geen
 
 ## Inkomsten
 Op dit moment bestaan de inkomsten volledig uit donaties en deelnemersbijdragen. Om te zorgen dat iedereen zijn steentje bijdraagt in het financieel ondersteunen van de stichting, houden we bij wie deelnemer is.
-In lijn met de andere hackerspaces in Nederland vragen we een  bijdrage van €25 per maand.
+In lijn met de andere hackerspaces in Nederland vragen we een deelnemers bijdrage van €25 per maand.
 
 ## Hiervoor krijg je terug:
 * een gebruikersaccount (onder je eigen voornaam, indien nog beschikbaar)
 * een deursleutel die 24/7 toegang biedt tot de hackerspace (indien de verhuurder het toestaat)
-* een Spacenet account, waarmee je bij elke verbonden hackerspace direct op het internet kan (zodra geimplementeerd)
 * het gebruik van internet & de aanwezige faciliteiten (zoverre deze voor 'openbaar gebruik' aangemerkt zijn (stickersysteem))
 * een plek om persoonlijke bezittingen te bewaren in een opbergdoos.
 
