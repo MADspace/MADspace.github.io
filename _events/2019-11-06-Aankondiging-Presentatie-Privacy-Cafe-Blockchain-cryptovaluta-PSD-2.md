@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Aankondiging Presentatie & Privacy Cafe - Blockchain, cryptovaluta & PSD-2 (2019-11-06)
+title: Aankondiging Presentatie en Privacy Cafe - Blockchain, cryptovaluta en PSD-2 (2019-11-06)
 date: 2019-11-06 20:00
 ---
 

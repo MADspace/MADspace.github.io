@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Aankondiging Presentatie & Privacy Café - Big-5 en de gevaren van de cloud (2019-11-27)
+title: Aankondiging Presentatie en Privacy Café - Big-5 en de gevaren van de cloud (2019-11-27)
 date: 2019-11-27 20:00
 ---
 

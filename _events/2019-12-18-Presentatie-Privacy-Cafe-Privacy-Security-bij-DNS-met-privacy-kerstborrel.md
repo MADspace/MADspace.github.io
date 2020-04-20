@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Presentatie & Privacy Café - Privacy & Security bij DNS met privacy-kerstborrel (2019-12-18)
+title: Presentatie en Privacy Café - Privacy en Security bij DNS met privacy-kerstborrel (2019-12-18)
 date: 2019-12-18 20:00
 ---
 
