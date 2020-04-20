@@ -10,7 +10,7 @@ layout: null
         <link>{{ site.url }}</link>
         <description>{{ site.description }}</description>
         <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
-        {% for post in site.posts %}
+        {% for post in site.events %}
         <item>
             <title>{{ post.title }}</title>
             <link>
