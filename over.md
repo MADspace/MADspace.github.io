@@ -32,8 +32,5 @@ Omdat wij geen overheidssubsidie ontvangen zijn wij geheel afhankelijk van donat
 
 - U kunt uw (maandelijkse) donatie overmaken op ons banknummer IBAN: NL80ABNA0500735042 tnv Stichting MADspace te Eindhoven.
 
-- Ook accepteren wij Bitcoins als uw (maandelijkse) donatie op ons Bitcoin adres: [17QzQzLLJitZW2xsd2VtB4x2BQ3oC6vrMb](https://blockstream.info/address/17QzQzLLJitZW2xsd2VtB4x2BQ3oC6vrMb)
-
 {% include blocks/donatie_bank.md %}
-{% include blocks/donatie_crypto.md %}
 

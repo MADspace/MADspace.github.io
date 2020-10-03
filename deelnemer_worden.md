@@ -37,8 +37,7 @@ Deelnemer wordt je door het invullen van het inschrijfformulier (toekomst: onlin
 
 ## Incasso of automatische overboeking
 * Om het leven van de Penningmeester makkelijk te maken, verzoeken we je om de onderstaande incassomachtinging uit te printen (deze liggen evt. ook in de hackerspace klaar), in te vullen en in te leveren bij de Penningmeester. Geef hierbij ook je e-mail adres op!
-* Alternatief 1: je kunt een maandelijkse periodieke overboeking instellen van €25,-  (of meer) dit moet uiterlijk de eerste van iedere maand zichtbaar op onze rekening bijgeschreven staan, o.v.v. "deelnemernummer: 'je_deelnemernummer'".
-* Alternatief 2 je kunt maandelijks op de eerste dag van iedere maand ook €25,- met Bitcoin betalen (formule: €25,- / openingskoers). Wij hanteren hiervoor de openingskoers van iedere eerste dag van de maand gepubliceerd op Yahoo Finance (https://finance.yahoo.com/chart/BTC-EUR). Vraag aan de Penningmeester voor je persoonlijke Bitcoin rekening.
+* Alternatief: je kunt een maandelijkse periodieke overboeking instellen van €25,-  (of meer) dit moet uiterlijk de eerste van iedere maand zichtbaar op onze rekening bijgeschreven staan, o.v.v. "deelnemernummer: 'je_deelnemernummer'".
 
 ## Gratis open avonden
 Wij bieden iedereen de gelegenheid om kennis te maken met MADspace op een van onze open avonden. Deze open avonden(zie: madspace.nl) zijn vrij toegankelijk en geven een indruk wat wij in een hackerspace doen. Op deze avond kan je ons bezoeken, met ons kennismaken en kijken of je deelnemer wilt worden om van alle voordelen gebruik te maken. In verband met veiligheid kunnen wij vanwege de drukte niet-deelnemers toegang weigeren.
