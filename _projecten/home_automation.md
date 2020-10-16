@@ -19,12 +19,12 @@ Heb je zelf al hardware zoals bijvoorbeeld een Raspberry Pi, Philips Hue, Ikea T
 <b>Let op!
   Wegens beperkte ruimte op de locatie kunnen er maximaal 16 personen actief deelnemen aan deze workshops.
   Schrijf je in op de MADspace maillijst om op de hoogte te blijven van ontwikkelingen rondom deze workshops:
-  <a href="https://madspace.nl/cgi-bin/mailman/listinfo/maillijst">https://madspace.nl/cgi-bin/mailman/listinfo/maillijst</a>
+  <a href="https://www.madspace.nl/maillijsten/">https://www.madspace.nl/maillijsten/</a>
 </b>
 
 <b>Hardware sponsors!</b>
 
-<img src="https://www.blackfridaynederland.nl/wp-content/uploads/2017/09/SOS-Solutions-Black-Friday-Actie.png"><img src="https://www.ewsdomotica.nl/nodoshop.jpg">
+<img src="https://www.ewsdomotica.nl/nodoshop.jpg">
 
 
   Tijdens de workshops is er, met dank aan SOS Solutions en de NODO shop, hardware beschikbaar waarmee je kan werken.
@@ -45,39 +45,39 @@ We proberen zoveel mogelijk de presentaties en relevante informatie te delen met
 
 * Avond 1:
 
-   <a href="http://www.stichtingmadspace.nl/assets/attachments/Domotica_Presentatie_avond_1_v1.0.ppt">Presentatie avond 1 (PPT)</a>
+   <a href="https://www.madspace.nl/assets/attachments/Domotica_Presentatie_avond_1_v1.0.ppt">Presentatie avond 1 (PPT)</a>
 
 * Avond 2:
 
-   <a href="http://www.stichtingmadspace.nl/assets/attachments/Domotica_Presentatie_avond_2_v1.0.ppt">Presentatie avond 2 (PPT)</a>
+   <a href="https://www.madspace.nl/assets/attachments/Domotica_Presentatie_avond_2_v1.0.ppt">Presentatie avond 2 (PPT)</a>
    
-   <a href="http://www.stichtingmadspace.nl/assets/attachments/Domotica_Handout_ESP01_demo.pdf">Handout ESP01 (PDF)</a>
+   <a href="https://www.madspace.nl/assets/attachments/Domotica_Handout_ESP01_demo.pdf">Handout ESP01 (PDF)</a>
    
 * Avond 3:
 
-   <a href="http://www.stichtingmadspace.nl/assets/attachments/Domotica_Presentatie_avond_3_v1.0.ppt">Presentatie avond 3 (PPT)</a>
+   <a href="https://www.madspace.nl/assets/attachments/Domotica_Presentatie_avond_3_v1.0.ppt">Presentatie avond 3 (PPT)</a>
 
-   <a href="http://www.stichtingmadspace.nl/assets/attachments/Domotica_Presentatie_avond_3_433mhz.ppt">Presentatie avond 3, 433 mhz (PPT)</a>
+   <a href="https://www.madspace.nl/assets/attachments/Domotica_Presentatie_avond_3_433mhz.ppt">Presentatie avond 3, 433 mhz (PPT)</a>
    
-   <a href="http://www.stichtingmadspace.nl/assets/attachments/Domotica_Presentatie_avond_3_Zwave.ppt">Presentatie avond 3, Z-wave (PPT)</a>   
+   <a href="https://www.madspace.nl/assets/attachments/Domotica_Presentatie_avond_3_Zwave.ppt">Presentatie avond 3, Z-wave (PPT)</a>   
 
-   <a href="http://www.stichtingmadspace.nl/assets/attachments/Domotica_Presentatie_avond_3_Install_Domoticz_on_RaspberryPi.txt">Howto install instructions of Domoticz Beta on Raspberry Pi with Rasbian Stretch (TXT)</a>
+   <a href="https://www.madspace.nl/assets/attachments/Domotica_Presentatie_avond_3_Install_Domoticz_on_RaspberryPi.txt">Howto install instructions of Domoticz Beta on Raspberry Pi with Rasbian Stretch (TXT)</a>
    
 * Avond 4:
 
-   <a href="http://www.stichtingmadspace.nl/assets/attachments/Domotica_Presentatie_avond_4_blockly.pptx">Presentatie avond 4, Blockly (PPTX)</a>
+   <a href="https://www.madspace.nl/assets/attachments/Domotica_Presentatie_avond_4_blockly.pptx">Presentatie avond 4, Blockly (PPTX)</a>
 
-   <a href="http://www.stichtingmadspace.nl/assets/attachments/Domotica_Presentatie_avond_4_JSON_MQTT_Python.pptx">Presentatie avond 4, JSON, MQTT and Python (PPTX)</a>
+   <a href="https://www.madspace.nl/assets/attachments/Domotica_Presentatie_avond_4_JSON_MQTT_Python.pptx">Presentatie avond 4, JSON, MQTT and Python (PPTX)</a>
 
 * Avond 5:
 
-   <a href="http://www.stichtingmadspace.nl/assets/attachments/Domotica_Presentatie_avond_5_SDR.ppt">Presentatie avond 5, Software Defined Radio - SDR (PPT)</a>
+   <a href="https://www.madspace.nl/assets/attachments/Domotica_Presentatie_avond_5_SDR.ppt">Presentatie avond 5, Software Defined Radio - SDR (PPT)</a>
    
    <a href="https://a13.veron.nl/">afdeling Eindhoven A13 - Vereniging voor Experimenteel Radio Onderzoek in Nederland (HYPERLINK)</a> 
 
    <a href="http://www.pi5fts.nl/">PI5FTS at Fontys University Eindhoven - WebSDR (HYPERLINK)</a>
    
-   <a href="http://www.stichtingmadspace.nl/assets/attachments/Domotica_Presentatie_avond_5_SmartHomes.pdf">Presentatie avond 5, Smart Homes (PDF)</a>
+   <a href="https://www.madspace.nl/assets/attachments/Domotica_Presentatie_avond_5_SmartHomes.pdf">Presentatie avond 5, Smart Homes (PDF)</a>
 
 
 ## Locatie: Slimste woning van Nederland
@@ -86,7 +86,7 @@ Deze workshop worden op een unieke locatie gegeven!
 
 Met dank aan Smart Homes, vinden deze workshops plaats in de slimste woning van Nederland, naast het Evoluon te Eindhoven!
 
-<img class="img-responsive" src="http://www.stichtingmadspace.nl/assets/img/slimste-woning-van-nederland.jpg" height="342" width="512">
+<img class="img-responsive" src="https://www.madspace.nl/assets/img/slimste-woning-van-nederland.jpg" height="342" width="512">
 
 De Slimste Woning van Nederland fungeert als onderzoeksplatform voor verschillende typen onderzoek, van zuiver wetenschappelijk tot aan eenvoudig testonderzoek van nieuwe oplossingen.
 In de woning zijn diverse technische systemen met elkaar gekoppeld tot een smart grid netwerk op woningniveau. 
@@ -105,7 +105,7 @@ De slimste woning van Nederland vindt je achter het Evoluon in Eindhoven:
 
 <a href="https://www.google.nl/maps/place/Evoluon/@51.4435695,5.4468691,15z/data=!4m5!3m4!1s0x0:0x2a5be19a8f135bf0!8m2!3d51.4435695!4d5.4468691">Locatie op Google Maps</a>
 
-<img class="img-responsive" src="http://www.stichtingmadspace.nl/assets/img/Huisvdtoekomst.jpg" height="346" width="512">
+<img class="img-responsive" src="https://www.madspace.nl/assets/img/Huisvdtoekomst.jpg" height="346" width="512">
 
 ## Inschrijven
 
@@ -116,7 +116,7 @@ Natuurlijk ben je ook gewoon welkom om tijdens de workshop eens binnen te lopen 
 <b>Let op!
   Wegens beperkte ruimte kunnen er maximaal 16 personen actief deelnemen aan deze workshops.
   Schrijf je in op de MADspace maillijst om op de hoogte te blijven van ontwikkelingen rondom deze workshops:
-  <a href="https://madspace.nl/cgi-bin/mailman/listinfo/maillijst">https://madspace.nl/cgi-bin/mailman/listinfo/maillijst</a>
+  <a href="https://www.madspace.nl/maillijsten/">https://www.madspace.nl/maillijsten/</a>
 </b>
   
 
