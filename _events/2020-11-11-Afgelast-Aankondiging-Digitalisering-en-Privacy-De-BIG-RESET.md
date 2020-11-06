@@ -1,10 +1,12 @@
 ---
 layout: post
-title: Aankondiging - Digitalisering en Privacy - De BIG RESET (2020-11-11)
+title: Afgelast - Aankondiging - Digitalisering en Privacy - De BIG RESET (2020-11-11)
 date: 2020-11-11 20:00
 ---
 
-## Aankondiging - Digitalisering en Privacy - De BIG RESET (2020-11-11)
+## Afgelast - Aankondiging - Digitalisering en Privacy - De BIG RESET (2020-11-11)
+
+### *** Deze gebeurtenis is wegens de lockdown afgelast en zal op een nader vast te stellen latere datum worden gehouden. ***
 
 Op woensdagavond 11 november 2020, vanaf 20:00 uur, organiseren we (tenzij onze overheid anders beslist) op onze MADspace-locatie een event over Digitalisering en Privacy.
 
