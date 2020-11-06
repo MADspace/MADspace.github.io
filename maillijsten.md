@@ -12,3 +12,4 @@ We hebben twee maillijsten. Aan/afmelden kan door een mailtje te sturen naar [be
 
 - [privacy@madspace.nl](mailto:privacy@madspace.nl) privacy maillijst.
 
+Controleer ook je spamfolder en markeer de mail als geen spam.
