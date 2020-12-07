@@ -26,3 +26,10 @@ permalink: /inventaris/
 
 ![RD6006/RD6006-W Digital Control Switch Adjustable Power Supply DC Stabilized Power Adapter Buck Module Monitoring Power Supply - RD6006-W](/assets/img/b8cafb35-38ad-4bc2-9d7d-cd008577c0f1.jpg.webp.jpg)
 
+- TP-LINK Archer C7 AC1750 Dualband Gigabit Router
+
+![TP-LINK Archer C7 AC1750 Dualband Gigabit Router](/assets/img/TP-LINK-Archer-C7-AC1750-Dualband-Gigabit-Router.jpg)
+
+- TRUST 16428 SPOTLIGHT WEBCAM PRO
+
+![TRUST 16428 SPOTLIGHT WEBCAM PRO](/assets/img/TRUST-16428-SPOTLIGHT-WEBCAM-PRO.jpg)
