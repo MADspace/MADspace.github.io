@@ -16,18 +16,7 @@ permalink: /definities/
 
 ## Gast
 * Een gast is welkom op de wekelijkse openavond (woensdagavond) van Stichting MADspace.
-* Als een gast Stichting MADspace ook doneert betekend dit niet dat de gast ook automatisch (aspirant-)deelnemer is.
 
-## Groep (Gasten)
-* Privacy Werkgroep / Privacy Cafe Eindhoven
-* Internet of Things Eindhoven (IoT)
-* Embedded Systems Eindhoven (emse.nl)
-
-## Deelnemer
-* Krijgt een gebruikersaccount (onder je eigen voornaam, indien nog beschikbaar).
-* Krijgt een deursleutel die 24/7 toegang biedt tot de hackerspace (indien de verhuurder het toestaat).
-* Krijgt een plek om persoonlijke bezittingen te bewaren in een (Ikea SAMBLA) opbergdoos.
-* Mag gebruik maken van internet & de aanwezige faciliteiten (zoverre deze voor ‘openbaar gebruik’ aangemerkt zijn (stickersysteem)).
 
 ## Ex-bestuurslid
 

@@ -17,7 +17,7 @@ permalink: index.html
     </p>
 </div>
 <div class="news">
-    <h2 class="post-list-heading">{{ page.list_title | default: "Upcoming events:" }}</h2>
+    <h2 class="post-list-heading">{{ page.list_title | default: "Events lijst:" }}</h2>
     {%- for post in site.events reversed -%}
       <h3><a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></h3>
     {%- endfor -%}

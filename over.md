@@ -28,7 +28,7 @@ Welkom bij stichting MADspace. De eerste officiële hackerspace te Eindhoven. Op
 
 ### Doneer:
 
-Omdat wij geen overheidssubsidie ontvangen zijn wij geheel afhankelijk van donaties en deelnemers bijdrage.
+Omdat wij geen overheidssubsidie ontvangen zijn wij geheel afhankelijk van donaties.
 
 - U kunt uw (maandelijkse) donatie overmaken op ons banknummer IBAN: NL80ABNA0500735042 tnv Stichting MADspace te Eindhoven.
 

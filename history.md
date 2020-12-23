@@ -3,7 +3,8 @@ layout: default
 title: Geschiedenis van MADspace
 permalink: /geschiedenis/
 ---
-<h1>Geschiedenis van MADspace</h1>
+
+# Geschiedenis van MADspace
 De begingedachten voor een hackerspace in Eindhoven werden gevormd in de zomer
 van 2009 tijdens de hackersevent
 [HAR2009](https://en.wikipedia.org/wiki/Hacking_at_Random). De eerste MADspace
@@ -18,7 +19,7 @@ georganiseerd. Hieronder enkele voorbeelden:
 
 *   Halverwege 2012 wordt begonnen met een presentaties over (agile) software
     development. Ons ledenaantal op
-    [meetup.com](http://www.meetup.com/MADspace/) explodeert.  
+    meetup.com explodeert.
 *   Op zaterdag 30-03-2013 deed MADspace mee met de eerste landelijke open
     hackerspace dag.  
 *   Op 27-04-2013 zijn we voor het eerst op zaterdagmiddag open, wat vanaf dat

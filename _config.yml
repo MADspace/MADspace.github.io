@@ -12,8 +12,6 @@ future: true
 collections:
   events:
     output: true
-  deelnemers:
-    output: true
   projecten:
     output: true
   securityProjects:
